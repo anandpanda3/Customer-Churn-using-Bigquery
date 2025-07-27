@@ -1,4 +1,4 @@
-
+https://github.com/anandpanda3/Customer-Churn-using-Bigquery/blob/main/Screenshot%202025-07-27%20230532.png
 
 This is an exercise to predict customer churn with two Machine Learning models. It tests:
 
